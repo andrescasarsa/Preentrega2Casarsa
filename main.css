@@ -1,0 +1,272 @@
+body{
+
+    background-color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    
+}
+
+.header {width: 100%;}
+
+.navegacion-1 {
+
+    list-style: none;
+    text-align: center;
+    margin-top: 0%;
+    }
+
+
+ul {
+
+    display: flex;
+    float: right;
+    background-color: white;
+    text-align: center center;
+      
+    }
+
+    
+li {
+
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+        
+}
+
+.imagen-de-portada {
+    height: 700px;
+    width: 100%;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url( ./Images/imagen3.jpg);
+    padding: 35px;
+    
+  }
+
+.primer-texto {
+    text-align: center;
+    color: white;
+font-size: 70px;
+text-decoration-skip:initial;
+}
+.nosotros {
+
+    text-align: center;
+
+}
+
+.nosotros-parrafo {
+
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.nos-encantaria {
+
+    text-align: center;
+    ;font-size: 20px;
+}
+
+.parrafo-contacto{
+    text-align: center;
+    font-size: 1rem;
+}
+
+.parrafo-footer{
+
+    text-align: center;
+
+    font-size: small;
+}
+
+.imagen-de-servicios {
+    height: 700px;
+    width: 100%;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Images/imagen2.jpg);
+    padding: 35px;
+
+}
+
+.personal {
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+.capacitaciones {
+
+    text-align: center;
+text-decoration: underline;
+}
+
+.consultoria {
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Mistery {
+
+    text-align: center;
+    text-decoration: underline;
+}
+.parrafo-personal {
+
+    text-align: center;
+    font-size: 1rem;
+}
+.parrafo-capacitaciones {
+
+    text-align: center;
+    font-size: 1rem;
+}
+
+.parrafo-consultoria {
+
+    text-align: center;
+    font-size: 1rem;
+}
+
+.parrafo-mistery {
+
+    text-align: center;
+    font-size: 1rem;
+}
+
+.parrafo-busquedas {
+
+    text-align: center;
+}
+
+.parrafo-h4 {
+
+    text-align: center;
+}
+
+.gerente {
+
+    text-align: left;
+    text-decoration: underline;
+}
+
+.parrafo-gerente {
+
+    text-align: justify;
+}
+
+.gerente-residente {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.parrafo-gerente-residente {
+
+    text-align: justify;
+
+}
+.Estancia {
+    text-align: left;
+    text-decoration: underline
+}
+.parrafo-Estancia
+{
+    text-align: justify;
+
+}
+.mistery-Bs-As {
+
+    text-align: left;
+    text-decoration: underline
+}
+
+.parrafo-mistery-Bs-As
+{
+    text-align: justify
+}
+
+.imagen-de-busquedas {
+    height: 700px;
+    width: 100%;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Images/imagen1.jpg);
+    padding: 35px;
+
+    }
+
+    .imagen-de-quienes-somos {
+
+        height: 700px;
+    width: 100%;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Images/pexels-burst-545012.jpg);
+    padding: 35px;
+
+    }
+
+    .parrafo-quienes-somos {
+
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .texto-Andres
+    {
+        text-align: left;
+        text-decoration: underline;
+    }
+
+    .parrafo-Andres {
+
+        text-align: justify
+    }
+
+    .imagen-de-contacto
+    {
+        height: 700px;
+        width: 100%;
+        background-position:center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url(./Images/pexels-diego-gonzalez-14688969.jpg);
+        padding: 35px;
+
+    }
+.contacto-h2
+{
+    text-align: center;
+    
+}
+
+.formulario {
+
+    text-align: center;
+}
+
+input[type=text] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none
+}
+
